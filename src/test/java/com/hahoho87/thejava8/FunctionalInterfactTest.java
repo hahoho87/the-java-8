@@ -6,7 +6,7 @@ import java.util.function.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-class FooTest {
+class FunctionalInterfactTest {
 
     @Test
     void functionTest() {
